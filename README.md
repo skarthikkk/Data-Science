@@ -11,7 +11,7 @@
 
 # Data Modelling for Regression
      1. Create Model fit function for Regression
-     2. Call Model fit function with algorithms – Linear , Ridge, ElasticNet, KNN, Decision tree, Random Forest
-     3. Do Random search for Random Forest, Gradient Boost and XG Boost
-     4. Get MAPE score (y_true, y_pred) 
-     5. Best MAPE score : Gradient Boost = 23.58
+     2. Call Model fit function with different algorithms 
+     3.Perform Random Forest, Gradient Boost and XG Boost with parameter tuning 
+     4. Get MAPE score 
+     5. Best MAPE score : Gradient Boost - 23.58
